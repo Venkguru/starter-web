@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Venkatesh S venkat@github.com @twitter
 
 # THANKS
 
