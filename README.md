@@ -13,3 +13,6 @@ sadsadsaddsadsaadasdsadsadsa
 
 ## How To Contribute
 
+## Copyright
+
+201.git. Trainginf
