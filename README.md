@@ -20,4 +20,4 @@ aading some text
 
 ## Copyright
 
-201.git. Trainginf
+201.git. Trainging . All rights Reserved.
